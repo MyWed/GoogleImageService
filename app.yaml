@@ -1,0 +1,6 @@
+runtime: go121
+instance_class: F1
+app_engine_apis: true
+automatic_scaling:
+  max_instances: 4
+  max_pending_latency: 1000ms
