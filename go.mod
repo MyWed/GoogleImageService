@@ -1,6 +1,6 @@
 module github.com/MyWed/GoogleImageService
 
-go 1.21
+go 1.23
 
 require google.golang.org/appengine/v2 v2.0.5
 
