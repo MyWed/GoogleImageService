@@ -1,4 +1,4 @@
-module github.com/Plusmedia/googleAppGo
+module github.com/MyWed/GoogleImageService
 
 go 1.21
 

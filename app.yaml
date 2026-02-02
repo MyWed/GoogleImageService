@@ -1,3 +1,4 @@
+service: image-go-v2
 runtime: go121
 instance_class: F1
 app_engine_apis: true
